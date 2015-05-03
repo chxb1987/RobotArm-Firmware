@@ -1,0 +1,6 @@
+build
+*.bak
+*.yht
+.hg
+/*.uvopt
+*.hgignore
