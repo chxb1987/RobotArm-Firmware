@@ -4,7 +4,7 @@
 ## Introduction
 The Firmware for the 4DOF Robot Arm made by FuRoC.
 
-The Firmware of Tinker is based on ARM mbed
+The Firmware is based on ARM mbed
 
 ![ARM mbed](https://mbed.org/static/img/mbed_logo.png)
 
